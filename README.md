@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello
+# I am hg0428, a full stack developer and programmer
 <!--
 **hg0428/hg0428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
