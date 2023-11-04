@@ -1,5 +1,8 @@
-### Hello 
-# I am hg0428, a full stack developer and programmer
+## I am hg0428, a full stack developer and programmer.
+As a developer and designer for the Aardvark programming language, I work with all sorts of frameworks, building all from web apps to programming languages.
+In addition to Aardvark, I build 2d and 3d video games, end-to-end encrypted messaging apps, search engines, discord bots, and much much more
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=hg0428&count_private=true&theme=dracula&show_icons=true&include_all_commits=true)
 <!--
 **hg0428/hg0428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
