@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=hg0428&color=green)
+![](https://komarev.com/ghpvc/?username=hg0428&color=green&base=232)
 ## I am hg0428, a full stack developer and programmer.
 As a developer and designer for the Aardvark programming language, I work with all sorts of frameworks, building all from web apps to programming languages.
 In addition to Aardvark, I build 2d and 3d video games, end-to-end encrypted messaging apps, search engines, discord bots, and much much more
