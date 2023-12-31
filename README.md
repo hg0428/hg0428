@@ -9,7 +9,6 @@ In addition to Aardvark, I build 2d and 3d video games, end-to-end encrypted mes
 
 ### Aardvark
 Aardvark is a high-level general-purpose programming language built for ease and speed. It's meant to be easier than Python and faster than C. We are constantly working to reach these two goals. We are currently working on the compiler, which will compile to LLVM (just like C and C++). It can be found [here](https://github.com/Aardvark-team/Aardvark-py).
-<iframe src="https://hgouge.replit.app" width="500" height="500"></iframe>
 <!--
 **hg0428/hg0428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
