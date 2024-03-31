@@ -3,7 +3,7 @@
 As a developer and designer for the Aardvark programming language, I work with all sorts of frameworks, building all from web apps to programming languages.
 In addition to Aardvark, I build 2d and 3d video games, end-to-end encrypted messaging apps, search engines, discord bots, and much much more
 
-## View my portfolio ![here](https://hgouge.replit.app).
+## View my portfolio [here](https://hgouge.replit.app).
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hg0428&count_private=true&theme=dracula&show_icons=true&include_all_commits=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=hg0428&theme=onedark)
 
