@@ -12,9 +12,9 @@ Aardvark is a high-level general-purpose programming language built for ease and
 
 
 ## Skills
-| Programming Language | Python     | JavaScript | TypeScript | C          | C++        | Rust       |
-| -------------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| Proficiency          | Perfect!   | Perfect!   | Great!     | Good       | Fine       | Learning in Progress |
+| Programming Language | Python     | JavaScript | TypeScript | SQL        | C          | C++        | Rust       |
+| -------------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| Proficiency          | Perfect!   | Perfect!   | Great!     | Great!     | Good       | Fine       | Learning in Progress |
 
 
 | Frameworks (Python) | Flask  | Django | NLTK   |
