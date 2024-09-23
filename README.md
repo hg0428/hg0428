@@ -35,4 +35,4 @@ Aardvark is a high-level general-purpose programming language built for ease and
 
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=hg0428&theme=onedark&rank=-?,-B)
+![trophy](https://github-profile-trophy.vercel.app/?username=hg0428&theme=onedark&rank=-?,-B&no-frame=true&no-bg=true)
