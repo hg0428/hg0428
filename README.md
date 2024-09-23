@@ -21,7 +21,7 @@ In addition to Aardvark, I build 2d and 3d video games, end-to-end encrypted mes
 | Proficiency         | Great! | Fine   | Good   |
 
 
-| Frameworks (JavaScript) | Express   | Fastify   | Three     | Cannon    | Socket IO |
+| Frameworks (JavaScript/TypeScript) | Express   | Fastify   | Three     | Cannon    | Socket IO |
 | ----------------------- | --------- | --------- | --------- | --------- | --------- |
 | Proficiency             | Great!    | Great!    | Fine      | Fine      | Great!    |
 
