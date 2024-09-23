@@ -7,7 +7,7 @@ In addition to Aardvark, I build 2d and 3d video games, end-to-end encrypted mes
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hg0428&count_private=true&theme=dracula&show_icons=true&include_all_commits=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=hg0428&rank=-?,-B&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=hg0428&rank=-?,-B&no-frame=true&theme=gruvbox)
 
 
 ## Skills
