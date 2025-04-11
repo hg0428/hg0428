@@ -16,9 +16,9 @@ In addition to Aardvark, I build 2d and 3d video games, end-to-end encrypted mes
 | Proficiency          | Perfect!   | Perfect!   | Great!     | Great!     | Good       | Fine       | Learning in Progress |
 
 
-| Frameworks (Python) | Flask  | Django | NLTK   |
-| ------------------- | ------ | ------ | ------ |
-| Proficiency         | Great! | Fine   | Good   |
+| Frameworks (Python) | Flask   | Django  | NLTK    | Pytorch |
+| ------------------- | ------- | ------- | ------- | ------- |
+| Proficiency         | Great!  | Fine    | Good    | Good    |
 
 
 | Frameworks (JavaScript/TypeScript) | Express   | Fastify   | Three     | Cannon    | Socket IO |
